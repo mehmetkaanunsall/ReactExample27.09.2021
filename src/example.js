@@ -1,3 +1,4 @@
+
 //export public görevi görür
 export class Customer
 {
